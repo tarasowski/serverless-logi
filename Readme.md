@@ -7,3 +7,9 @@ Disclaimer: This version is not tested yet! But it's good enough for local devel
 1. Run `npm install serverless-logi`
 2. Run `npm run logi -- function=<FunctionName> region=<AWS-Region>`
 3. Have fun
+
+
+Todo:
+1. Refactor (modularize) code -> Isolate side-effects
+2. Unit test coverage 100%
+3. Parsing `template.yaml` for automated polling (without specifying function names)
