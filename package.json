@@ -1,0 +1,23 @@
+{
+  "name": "append",
+  "version": "0.1.0",
+  "description": "",
+  "main": "run.js",
+  "bin": {
+    "logi": "./src/run.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serverless",
+    "cloudwatch",
+    "logs",
+    "lambda"
+  ],
+  "author": "Dimitri Tarasowski",
+  "license": "MIT",
+  "dependencies": {
+    "node-watch": "^0.5.8"
+  }
+}
