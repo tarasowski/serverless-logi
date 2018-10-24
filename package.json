@@ -21,6 +21,7 @@
   "author": "Dimitri Tarasowski",
   "license": "MIT",
   "dependencies": {
+    "aws-sdk": "^2.341.0",
     "node-watch": "^0.5.8"
   }
 }
